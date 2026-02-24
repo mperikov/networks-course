@@ -19,7 +19,7 @@
 
 #### Вопросы
 
-![screen0](image.png)
+![screen0](data/image.png)
 ![screen1](data/image-1.png)
 
 1. Использует ли ваш браузер HTTP версии 1.0 или 1.1? Какая версия HTTP работает на
