@@ -86,7 +86,6 @@ TCP с обязательным использованием протокола 
 ```bash
 $ go run ./server -addr '[::]:9000'
 $ go run ./client -addr '[::]:9000'
-HELLO
 ```
 
 ![](images/image-3.png)
